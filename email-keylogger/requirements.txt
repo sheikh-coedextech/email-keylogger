@@ -1,0 +1,4 @@
+pynput>=1.7.0
+requests>=2.25.0
+scapy>=2.5.0
+colorama>=0.4.4
